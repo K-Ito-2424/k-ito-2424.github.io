@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domestic Conference | Kazuhiro Ito</title>
+    <link>https://k-ito-2424.github.io/publication-type/domestic-conference/</link>
+      <atom:link href="https://k-ito-2424.github.io/publication-type/domestic-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domestic Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://k-ito-2424.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Domestic Conference</title>
+      <link>https://k-ito-2424.github.io/publication-type/domestic-conference/</link>
+    </image>
+    
+    <item>
+      <title>孤独エピソードデータセットの構築とその応用</title>
+      <link>https://k-ito-2424.github.io/publication/fujikawa-2024-loneliness/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://k-ito-2424.github.io/publication/fujikawa-2024-loneliness/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>社員が記述したテキストからの幸福度推定</title>
+      <link>https://k-ito-2424.github.io/publication/hayashi-2024-wb/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://k-ito-2424.github.io/publication/hayashi-2024-wb/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>イノベーティブな言語使用に着目した集団的アイデンティティの推定</title>
+      <link>https://k-ito-2424.github.io/publication/ito-2024-li/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://k-ito-2424.github.io/publication/ito-2024-li/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>場の状態の共有と個人のWell-being</title>
+      <link>https://k-ito-2424.github.io/publication/ito-2023-wb/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://k-ito-2424.github.io/publication/ito-2023-wb/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>対象を考慮した日本語「愚痴」データセットの構築</title>
+      <link>https://k-ito-2424.github.io/publication/ito-2022-gch/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://k-ito-2424.github.io/publication/ito-2022-gch/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
