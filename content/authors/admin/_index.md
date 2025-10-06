@@ -50,12 +50,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 30
+        percent: 40
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 30
+        percent: 40
         icon: chart-line
         icon_pack: fas
   - name: Hobbies
@@ -67,7 +67,7 @@ skills:
         percent: 70
         icon: hippo
         icon_pack: fas
-      - name: Puyo pop
+      - name: Puzzle game
         description: ''
         percent: 70
         icon: gamepad
