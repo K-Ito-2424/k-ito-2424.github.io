@@ -11,7 +11,8 @@ authors:
   - "Eiji Aramaki"
 date: 2024-08-01
 publishDate: 2024-08-01
-publication_types: ["1"]   # 1 = Conference paper
+publication_types:
+- paper-conference
 publication: "Proceedings of the 14th Workshop on Computational Approaches to Subjectivity, Sentiment, and Social Media Analysis (WASSA 2024)"
 publication_short: "WASSA 2024"
 publisher: "Association for Computational Linguistics"
